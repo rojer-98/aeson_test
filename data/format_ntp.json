@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "addresingFormatType": "ipaddress",
+  "hostName": null,
+  "ipAddress": "172.16.16.10",
+  "ip6Address": null,
+  "portNo": 123,
+  "synchronizeInterval": 60
+}
